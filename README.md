@@ -1,4 +1,4 @@
-Starborne Theme - For Tumblr
+# Starborne Theme - For Tumblr
 
 Clean up your blog with this minimalistic but still colorful tumblr theme! To install this theme, please:
 
